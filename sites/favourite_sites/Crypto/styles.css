@@ -1,0 +1,39 @@
+body {
+    background-color: darkorange;
+}
+
+#Header {
+    color: darkorange;
+    background-color: gold;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 0 15px 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.Tab {
+    color: darkorange;
+    background-color: gold;
+    border-radius: 10px;
+    padding: 2px 10px 25px 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#onlineSymbol {
+    height: 25px;
+    width: 25px;
+    border-radius: 10px;
+    padding: 0 0 0 0;
+    margin: 7px 0 -7px 0;
+}
+
+.Link {
+    color: darkorange;
+    background-color: gold;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
